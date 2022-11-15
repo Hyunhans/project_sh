@@ -150,7 +150,10 @@ response = openai.Image.create(
     size = '256x256'
 )
 
-image_url = response['data'][0]['url']
+image_url_1 = response['data'][0]['url']
+image_url_2 = response['data'][1]['url']
+image_url_3 = response['data'][2]['url']
+image_url_4 = response['data'][3]['url']
 
 #접속 url (1시간 유지)
 print(image_url)

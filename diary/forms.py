@@ -1,5 +1,5 @@
 from django import forms
-from diary.models import Memory,KeywordPost
+from diary.models import Memory, KeywordPost, ImageFields, FinImg
 
 
 class MemoryForm(forms.ModelForm):
@@ -11,4 +11,10 @@ class MemoryForm(forms.ModelForm):
 class KeywordForm(forms.ModelForm):
     class Meta:
         model = KeywordPost
+        fields = "__all__"
+
+
+class ImgForm(forms.ModelForm):
+    class Meta:
+        model = FinImg
         fields = "__all__"

@@ -1,7 +1,7 @@
 from django.contrib import messages
 from django.shortcuts import render, redirect
 from django.views.generic import ListView
-from diary.forms import MemoryForm
+from diary.forms import MemoryForm, ImgForm
 from .models import Memory
 from diary.forms import MemoryForm, KeywordForm
 from diary.models import KeywordPost, Memory, ImageFields
@@ -38,13 +38,20 @@ def memory_writing(request):
 def index(request):
     # 전체 포스팅을 가져올 준비. 아직 가져오지는 않음.
     memory_qs = Memory.objects.all()
+    keyword_qs = ImageFields.objects.all()
+    print(keyword_qs)
+
+
     return render(request, "diary/memory_list.html", {
         "memory_list": memory_qs,
+        "keywords_list": keyword_qs,
     })
 
 
 def memory_detail(request, pk):
     memory = Memory.objects.get(pk=pk)
+
+    
     return render(request, "diary/memory_detail.html", {
         "memory": memory,
     })
@@ -77,6 +84,8 @@ def memory_new(request):
         if form.is_valid():
             # form.cleaned_data
             form.save()
+            
+            
             # return redirect(f"/diary/{memory.pk}/")
             # return redirect(memory.get_absolute_url())
 
@@ -224,7 +233,7 @@ def image_extraction(request):
 
     # 3) 이미지 전환 및 추출
     # token key
-    openai.api_key = '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'
+    openai.api_key = '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'
 
     #함수
     response = openai.Image.create(
@@ -259,6 +268,14 @@ def image_extraction(request):
 def select(request):
     image_qs = ImageFields.objects.values().order_by('-id')[0]
 
+    if request.method == "POST":
+        form = ImgForm(request.POST)
+        form.save()
+
+
+        return redirect('http://localhost:8000/diary/gallery/')
+    else:
+        form = MemoryForm()
 
 
     return render(request, "diary/memory_photo_confirm.html", {

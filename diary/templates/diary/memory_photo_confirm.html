@@ -27,7 +27,10 @@
               alt="1번째 그림"
             />
           </button>
+
           <!-- Modal -->
+          <form action="" method="post">
+            {% csrf_token %}
           <div
             class="modal fade"
             id="exampleModal1"
@@ -71,9 +74,13 @@
               </div>
             </div>
           </div>
+
           <div class="card-footer" style="text-align: center">
             <small class="text-muted">1</small>
           </div>
+
+          <!-- 2번째 그림 구역 -->
+
         </div>
         <div class="card">
           <button
@@ -89,7 +96,10 @@
               alt="2번째 그림"
             />
           </button>
-          <!-- Modal -->
+
+          <!-- 2 Modal -->
+          <form action="" method="post">
+            {% csrf_token %}
           <div
             class="modal fade"
             id="exampleModal2"
@@ -133,8 +143,13 @@
               </div>
             </div>
           </div>
+          </form>
+
           <div class="card-footer" style="text-align: center">
             <small class="text-muted">2</small>
+
+            <!-- 3번째 그림 구역 -->
+            
           </div>
         </div>
         <div class="card">
@@ -151,7 +166,9 @@
               alt="3번째 그림"
             />
           </button>
-          <!-- Modal -->
+          <!-- 3Modal -->
+          <form action="" method="post">
+            {% csrf_token %}
           <div
             class="modal fade"
             id="exampleModal3"
@@ -195,9 +212,13 @@
               </div>
             </div>
           </div>
+          </form>
+        
           <div class="card-footer" style="text-align: center">
             <small class="text-muted">3</small>
           </div>
+
+          <!-- 4번째 그림 구역 -->
         </div>
         <div class="card">
           <button
@@ -214,6 +235,8 @@
             />
           </button>
           <!-- Modal -->
+          <form action="" method="post">
+            {% csrf_token %}
           <div
             class="modal fade"
             id="exampleModal4"
@@ -257,6 +280,7 @@
               </div>
             </div>
           </div>
+          </form>
           <div class="card-footer" style="text-align: center">
             <small class="text-muted">4</small>
           </div>

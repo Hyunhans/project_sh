@@ -1,5 +1,11 @@
 from django.db import models
 
+from urllib.parse import urlparse
+
+# from django.core.files import File
+
+# from utils.file import download, get_buffer_ext # 위에서 만든 file.py 경로
+
 
 class Memory(models.Model):
     # head_image = models.ImageField(upload_to='blog/images/%Y/%m/%d/', blank=True)
@@ -101,5 +107,5 @@ class ImageFields(models.Model):
     url4 = models.TextField()
 
 
-class FinImage(models.Model):
-    fin_url = models.ImageField()    
+class FinImg(models.Model):
+    finImg = models.ImageField(null=True, blank=True)

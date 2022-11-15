@@ -1053,3 +1053,135 @@ pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; chec
 2022-11-15 13:59:27,541 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=4674 request_id=1f6428a87c6a14e5395530c4bb5f44db response_code=200
 2022-11-15 13:59:54,061 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['5zVKdBh15Uyr7Xdb69ccI592HmJfwHHzI1ovE165j8aubv3kLO6WgpQZX4XXvSYJ'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['요즘스타일'], 'content': ['']}>
 2022-11-15 13:59:54,065 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 16:10:17,937 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Q9nRMYaE4YIEtGRdCoVBYXb8JL2OFQGptBQCdoZIickHxeHmh3PlwhS5ZtgwE1Xz'], 'Weather': ['Cloudy'], 'Emotion': ['Neutral'], 'Drawing': ['Digital Art'], 'content': ['주인공은 동물 왕국에 갖은 소요를 불러일으키는 여우 르나르. 늑대 이장그렝의 아내와 바람을 피우고, 닭들을 함부로 잡아먹고, 보다못한 사자왕이 곰이나 고양이 등을 보내서 잡아오라 해도 간사한 꾀로 속여넘겨 동물왕국의 주적이 되어버린다.\r\n\r\n좋게좋게 말로 해결을 보려던 사자왕의 역린을 건드려 결국 동물왕국 전체가 르나르를 쫓는다. 르나르는 자신의 성채에 틀여박혀 몇 달을 버티고 다른 동물들은 성밑에서 진을 치고 기다리는데, 그들이 잠든 사이 르나르는 몰래 내려와 여왕을 겁탈하더니 자는 동물들의 꼬리를 묶어놓고 도망간다.']}>
+2022-11-15 16:10:17,942 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 16:10:24,342 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 16:10:44,364 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 16:14:00,153 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 16:25:11,978 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 17:24:49,012 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 18:26:37,904 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 18:28:19,906 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\forms.py changed, reloading.
+2022-11-15 18:28:35,868 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-15 18:42:58,255 - django.request - WARNING - Not Found: /media/items/bag-1623898_960_720.jpeg
+2022-11-15 18:43:04,259 - django.request - WARNING - Not Found: /media/items/bag-1623898_960_720.jpeg
+2022-11-15 18:43:13,278 - django.request - WARNING - Not Found: /media/items/bag-1623898_960_720.jpeg
+2022-11-15 18:43:21,313 - django.request - WARNING - Not Found: /media/items/bag-1623898_960_720.jpeg
+2022-11-15 18:44:22,654 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\do_it_django_prj\settings.py changed, reloading.
+2022-11-15 18:58:48,488 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-15 19:32:27,158 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /diary/select/
+2022-11-15 19:33:07,711 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /diary/select/
+2022-11-15 19:33:17,923 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /diary/select/
+2022-11-15 19:33:23,260 - django.security.csrf - WARNING - Forbidden (CSRF token missing.): /diary/select/
+2022-11-15 19:34:12,051 - django.request - ERROR - Internal Server Error: /diary/select/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 268, in select
+    if form.is_valid():
+UnboundLocalError: local variable 'form' referenced before assignment
+2022-11-15 19:35:09,496 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:35:31,917 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\forms.py changed, reloading.
+2022-11-15 19:35:47,571 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:35:56,243 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:40:30,165 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:41:15,975 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:42:15,559 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:45:10,392 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:45:16,059 - django.request - ERROR - Internal Server Error: /diary/gallery/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'endblock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 45, in index
+    return render(request, "diary/memory_list.html", {
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\defaulttags.py", line 854, in do_for
+    nodelist_loop = parser.parse(
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 62: 'endblock', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+2022-11-15 19:49:29,153 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:50:03,203 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['W2Sm3u0tPZTWyjnJDnrIsPbJNNu6XOxezul7uUPx3dvZCRdSi2ls09SG3vIOWZOo'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['질신리 가로수 벚꽃이 정말 예쁘게 피었습니다.\r\n몇 년 전에 박종기 군수님이 질신리에 가로수 벚나무를 심어놓은 벚꽃이 화려하게 피었습니다.\r\n박 군수님 자리가 벚꽃으로 남아있으니 정말 보기가 좇습니다.\r\n그런데 그 벚꽃을 보는 사람이 없어서 참 아쉬웠습니다. 동네마다 99, 88 노인들만 살아서 예쁜 꽃들이 한 잎 두 잎 떨어지는 게 아쉽습니다.\r\n나 혼자 가로수 벚꽃 향기 속에 걸으면서 이 산 저 산을 바라보니 진달래꽃이 화려하게 피었습니다.\r\n나는 옛날 추억을 더듬으며 걸으면서 벚꽃을 보니 옛날에 신탄진 벚꽃축제에 갔다가 사람들 틈에 쳐 죽을 뻔 했던 게 생각이 났습니다.\r\n옛날 벚꽃은 청춘에 벚꽃이요, 꽃이 좋은 게 아니고 내 청춘이 꽃인 게지요.\r\n늙어서 보는 꽃은 예쁘다는 생각뿐이지 젊어서 꽃을 보면 인정사정도 없이 꺾어다 꽂아놓고 뒷동산에 올라가서 진달래를 한 아름씩 꺾어 오던 생각이 납니다.\r\n젊어서 인(人)꽃 벚꽃이 진짜 예쁘지, 늙어서 보는 꽃은 눈으로 보는 꽃이고 젊어서 보는 꽃은 꼭 행기 속으로 들어갈 정도로 표현이 안될 정도로 좋은데 지금은 예쁘다 하는 마음뿐이지 그 꽃을 꺾고 싶은 마음도 없습니다.\r\n이제는 마음도 육신도 갈 때가 되어 강으로 갈지, 저 산으로 갈지 얼마 남지 않은 인생을 똑바르게 살다가 저 세상으로 가야하는데 걱정이 됩니다.\r\n내가 다시 태어나면 시집도 안가고 정치가가 되어서 똑바르게 하면서 서민들을 도와주고 싶습니다.']}>
+2022-11-15 19:50:03,208 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 19:50:07,505 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 19:50:22,819 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 19:50:26,882 - openai - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/images/generations
+2022-11-15 19:50:27,560 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=41 request_id=b600da2a9d29accb8d1b91d837772c88 response_code=401
+2022-11-15 19:50:27,560 - openai - INFO - error_code=invalid_api_key error_message='Incorrect API key provided: sk-JKkNB***************************************I0Ou. You can find your API key at https://beta.openai.com.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2022-11-15 19:50:27,642 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 239, in image_extraction
+    response = openai.Image.create(
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\openai\api_resources\image.py", line 22, in create
+    return instance.request("post", cls._get_url("generations"), params)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\openai\openai_object.py", line 179, in request
+    response, stream, api_key = requestor.request(
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\openai\api_requestor.py", line 181, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\openai\api_requestor.py", line 396, in _interpret_response
+    self._interpret_response_line(
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\openai\api_requestor.py", line 429, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.AuthenticationError: Incorrect API key provided: sk-JKkNB***************************************I0Ou. You can find your API key at https://beta.openai.com.
+2022-11-15 19:52:11,021 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:52:55,905 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Azo9EldmxWIsr9zyHge7x8aCnqCTs0xod1RU5L2qLakvvHpHmV8R5sRzD8QBrbOy'], 'Weather': ['Sunny'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['질신리 가로수 벚꽃이 정말 예쁘게 피었습니다.\r\n몇 년 전에 박종기 군수님이 질신리에 가로수 벚나무를 심어놓은 벚꽃이 화려하게 피었습니다.\r\n박 군수님 자리가 벚꽃으로 남아있으니 정말 보기가 좇습니다.\r\n그런데 그 벚꽃을 보는 사람이 없어서 참 아쉬웠습니다. 동네마다 99, 88 노인들만 살아서 예쁜 꽃들이 한 잎 두 잎 떨어지는 게 아쉽습니다.\r\n나 혼자 가로수 벚꽃 향기 속에 걸으면서 이 산 저 산을 바라보니 진달래꽃이 화려하게 피었습니다.\r\n나는 옛날 추억을 더듬으며 걸으면서 벚꽃을 보니 옛날에 신탄진 벚꽃축제에 갔다가 사람들 틈에 쳐 죽을 뻔 했던 게 생각이 났습니다.\r\n옛날 벚꽃은 청춘에 벚꽃이요, 꽃이 좋은 게 아니고 내 청춘이 꽃인 게지요.\r\n늙어서 보는 꽃은 예쁘다는 생각뿐이지 젊어서 꽃을 보면 인정사정도 없이 꺾어다 꽂아놓고 뒷동산에 올라가서 진달래를 한 아름씩 꺾어 오던 생각이 납니다.\r\n젊어서 인(人)꽃 벚꽃이 진짜 예쁘지, 늙어서 보는 꽃은 눈으로 보는 꽃이고 젊어서 보는 꽃은 꼭 행기 속으로 들어갈 정도로 표현이 안될 정도로 좋은데 지금은 예쁘다 하는 마음뿐이지 그 꽃을 꺾고 싶은 마음도 없습니다.\r\n이제는 마음도 육신도 갈 때가 되어 강으로 갈지, 저 산으로 갈지 얼마 남지 않은 인생을 똑바르게 살다가 저 세상으로 가야하는데 걱정이 됩니다.\r\n내가 다시 태어나면 시집도 안가고 정치가가 되어서 똑바르게 하면서 서민들을 도와주고 싶습니다.']}>
+2022-11-15 19:52:55,908 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 19:53:01,491 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 19:53:10,395 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 19:53:13,829 - openai - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/images/generations
+2022-11-15 19:53:19,095 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=4643 request_id=7c4dba8f2a0731ad0716cef85676ec95 response_code=200
+2022-11-15 19:53:48,369 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:58:35,907 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 19:59:55,484 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.

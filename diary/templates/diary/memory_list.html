@@ -44,9 +44,14 @@
               </a>
               {% endif %}
            <div class="card-body">
-              <p class="card-text">{{ p.content }}</p>
+            {% for keyword in keywords_list %}
+              {% if p.pk == keyword.pk %}
+              <p class="card-text">{{ keyword.keywords }}</p>
+              {% endif %}
+            {% endfor %}
               <div class="d-flex justify-content-between align-items-center">
                 <small class="text-muted" >{{ p.created_at }}</small>
+
               </div>
             </div>
           </div>
