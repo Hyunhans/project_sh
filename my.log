@@ -94,3 +94,962 @@ sss</textarea>
 2022-11-14 14:57:13,138 - django.request - WARNING - Not Found: /diary/new/do_it_django_prj/static/diary_bg1.png
 2022-11-14 14:57:17,462 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['4Z49sf9zBNxJEZPaLMHr0X6iKnMUE1VVySgSPUwMtYiz2sWnuyKlliDP5c4FEBaO'], 'Weather': ['Clody'], 'Emotion': ['Neutral'], 'Drawing': ['1'], 'content': ['ss']}>
 2022-11-14 14:57:17,570 - django.request - WARNING - Not Found: /diary/new/do_it_django_prj/static/diary_bg1.png
+2022-11-14 15:49:30,424 - django.request - WARNING - Not Found: /favicon.ico
+2022-11-14 15:49:32,983 - django.request - WARNING - Not Found: /favicon.ico
+2022-11-14 15:49:36,077 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['QPwso8dkFVOUYFVJTYXEzXpipRnpseWtmEVrhMC1V8hyauZrr4xRCjhMzzRYeWNt'], 'Weather': ['Rainy'], 'Emotion': ['Depressed'], 'Drawing': ['Oil and Canvas'], 'content': ['dwdw']}>
+2022-11-14 16:13:21,739 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['a6fqd6POL8lmpY7U60KeCp7tMft0BYUxGVEp6Kev1lO0BNbCE6krFLZXWXXznGLx'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Sketched'], 'content': ['dnksdnks']}>
+2022-11-14 16:15:45,703 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['fZvNhEKiFigSiqnguJhvOD71hDuEnopJLOUMai9ZVvJwufrY2PRIRZZvrlYd96gJ'], 'Weather': ['Cloudy'], 'Emotion': ['Neutral'], 'Drawing': ['Digital Art'], 'content': ['dwdw']}>
+2022-11-14 16:16:01,597 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['83jpcXe6tKJylPcY69KcHaJ9PUpu1Ef8ESIo5BDNJXccxEgGEfkpKwBDZCT3Nm68'], 'Weather': ['Snowy'], 'Emotion': ['Neutral'], 'Drawing': ['Oil and Canvas'], 'content': ['테스트 3']}>
+2022-11-14 17:22:52,508 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['E5YUfTIZqKDuhjPzRBswKfj1PbEpDAe6Qccd04bXa3xOrTvMbK8XhBFLpDSQsNHp'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-14 18:50:53,487 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['dUVgQKmkVB87qaQe9IfZ6Q0VuGRU0FY6p19zBVPiFU2rAKwrtRVqDcmF485lPSrp'], 'Weather': ['Sunny'], 'Emotion': ['Happy'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['내일은 우리 둘째 아들 생일이다. 옛날 같으면 떡이나 해서 주는데 아들생일에 가는데 식전에 밭에 가서 옥수수, 애동호박, 들깻잎, 고추, 감자, 이것, 저것 해서 한보따리 실어놓고 아들이 보고 싶은 마음에 들떠서 정신이 없었다.\r\n아들 보러 가는 게 좋아서 그랬다.\r\n사실 나는 아들이 결혼하고는 생일도 모르고 살았다.\r\n그런데 지난해 둘째 아들이 지 생일 날 전화를 해서는 “삼복더위에 나를 낳느라고 고생이 많았어요. 맛있는 거 사잡수세요룖 하면서 용돈을 부쳐주었다.\r\n그래서 나도 작년부터 아들 생일을 알았다.\r\n미역국 끓여먹으라고 십만원을 주었더니 오히려 아들이 소족 하고 용돈을 두둑하게 주었다.\r\n손자들 하고 힘들 텐데 돈을 주어서 마음이 편치 않았다.\r\n돈을 보태 주어야 하는데 돈을 받아서 그런 것이다.\r\n이게 부모 마음이겠지.']}>
+2022-11-14 18:51:05,212 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Q6usq3WQr7u8w1UJj2E1EbDowxTwbxBf2dILbepObqosGBAWDbksbxZ86Z7X0K4y'], 'Weather': ['Sunny'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['내일은 우리 둘째 아들 생일이다. 옛날 같으면 떡이나 해서 주는데 아들생일에 가는데 식전에 밭에 가서 옥수수, 애동호박, 들깻잎, 고추, 감자, 이것, 저것 해서 한보따리 실어놓고 아들이 보고 싶은 마음에 들떠서 정신이 없었다.\r\n아들 보러 가는 게 좋아서 그랬다.\r\n사실 나는 아들이 결혼하고는 생일도 모르고 살았다.\r\n그런데 지난해 둘째 아들이 지 생일 날 전화를 해서는 “삼복더위에 나를 낳느라고 고생이 많았어요. 맛있는 거 사잡수세요룖 하면서 용돈을 부쳐주었다.\r\n그래서 나도 작년부터 아들 생일을 알았다.\r\n미역국 끓여먹으라고 십만원을 주었더니 오히려 아들이 소족 하고 용돈을 두둑하게 주었다.\r\n손자들 하고 힘들 텐데 돈을 주어서 마음이 편치 않았다.\r\n돈을 보태 주어야 하는데 돈을 받아서 그런 것이다.\r\n이게 부모 마음이겠지.']}>
+2022-11-14 19:30:29,693 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['fwuFq4g5mSXKhjiFZMkcAaxbhblcAWhgrDIYbfJ36bR4rTYSjV0D7wTVRDzDp9Kz'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Impressionism'], 'content': ['qweqwe']}>
+2022-11-14 19:38:53,520 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-14 19:51:47,125 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 19:59:20,524 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-14 20:17:20,899 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-14 20:19:55,610 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 20:21:07,569 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 20:21:26,793 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 20:22:05,940 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['2dJpdSx4xlwwrOtMLM1yPXjH43Q6DI6AekXIY302hEqQBo9Z5VHZmjFrEv4xsVzT'], 'Weather': ['Rainy'], 'Emotion': ['Happy'], 'Drawing': ['Sketched'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-14 20:22:11,868 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-14 20:22:24,780 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-14 20:22:26,866 - django.request - ERROR - Internal Server Error: /diary/new/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 163, in memory_new
+    end = (time.time() - start)
+NameError: name 'start' is not defined
+2022-11-14 20:23:36,369 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 20:24:12,573 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['2caSNSeqIm1lyfDMCohq9Y3IXEH8cHaUejoby3HosFVFIPjZWxXRGkpsx6Vz1UDd'], 'Weather': ['Cloudy'], 'Emotion': ['Neutral'], 'Drawing': ['Oil and Canvas'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-14 20:24:17,996 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-14 20:24:28,870 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-14 20:24:32,522 - openai - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/images/generations
+2022-11-14 20:24:38,114 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=4970 request_id=558831b3d6ee67ef7790c57fdc2d471c response_code=200
+2022-11-14 20:29:17,059 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['xubGabHzgErdKlyDDc6nttdcolrZIlocJBpZVmax0XlxUVeQXlMO0PzWYNFqxyRv'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['']}>
+2022-11-14 20:29:19,226 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['LD1DbaBebkSOwb5N7C8mw6uWj0oybMXdXKfWWl4cVDM8GLL0rLON3sQGTsCZ0Zqw'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['']}>
+2022-11-14 20:29:21,275 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['3ImBoWsbIEcjCMSbJnE0dwdhmvdHUWYVfPAU97V9sX6DMmyo3wkrKSz1WXr8J9re'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['']}>
+2022-11-14 20:29:31,427 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['QGUohwcvR8sd0ik8N0roaALfliDemZYh2N8H2HFtBrmxaS0l797PHW7ZVKRFbcrA'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['']}>
+2022-11-14 20:29:33,134 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['zKiWyCfEfxe5eD19X8zbqJdg3zXbBt9aLRwfjNICZQ8podHmhhfCX5z0D1bCqGCt'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['']}>
+2022-11-14 20:46:14,559 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['5jggIWyoRXS3jUFy4QotrCvGaB5QCCwThquzt71mBgMntulLoZ4UYYRqK3jhrPZc'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['ㄷ2ㄷㅈㅂㄱㅈㅂㄷㅈㅂㄷㅈㅂㄷㅈ']}>
+2022-11-14 21:12:44,500 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['5jggIWyoRXS3jUFy4QotrCvGaB5QCCwThquzt71mBgMntulLoZ4UYYRqK3jhrPZc'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['원하시는 화풍을 선택해주세요'], 'content': ['ㄷ2ㄷㅈㅂㄱㅈㅂㄷㅈㅂㄷㅈㅂㄷㅈ']}>
+2022-11-14 21:13:13,297 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-14 21:13:19,496 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['hFchXL6tfmiW6RgTdbsoVsA97c0ht2XBtMqAIWzrZFcggrW6xk8PsOWTHEeIifqU'], 'Weather': ['Rainy'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['dwdwdw']}>
+2022-11-14 21:13:21,591 - django.request - ERROR - Internal Server Error: /diary/new/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 119, in memory_new
+    count = CountVectorizer(ngram_range=n_gram_range).fit([tokenized_nouns])
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1291, in fit
+    self.fit_transform(raw_documents)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1338, in fit_transform
+    vocabulary, X = self._count_vocab(raw_documents, self.fixed_vocabulary_)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1228, in _count_vocab
+    raise ValueError(
+ValueError: empty vocabulary; perhaps the documents only contain stop words
+2022-11-14 23:00:58,517 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-14 23:06:20,829 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:42:32,724 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-14 23:51:09,791 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:51:55,031 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:52:27,097 - django.request - WARNING - Not Found: /favicon.ico
+2022-11-14 23:52:29,180 - django.request - WARNING - Not Found: /favicon.ico
+2022-11-14 23:53:01,366 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['rT1vTU1XRQ0gmRwFysM9Ni2Fc7xBn58I4lugkkQ154CjqpmOd7GTlCJCsPLjmgpS'], 'Weather': ['Cloudy'], 'Emotion': ['Neutral'], 'Drawing': ['디지털 아트'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-14 23:53:39,099 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:54:33,662 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\urls.py changed, reloading.
+2022-11-14 23:54:42,133 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 251, in image_extraction
+    count = CountVectorizer(ngram_range=n_gram_range).fit([tokenized_nouns])
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1291, in fit
+    self.fit_transform(raw_documents)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1338, in fit_transform
+    vocabulary, X = self._count_vocab(raw_documents, self.fixed_vocabulary_)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1228, in _count_vocab
+    raise ValueError(
+ValueError: empty vocabulary; perhaps the documents only contain stop words
+2022-11-14 23:55:07,515 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['pQIi1qNowLr6RPXIK22YdVHOQlwrWZLE2ib3sQCsKZ39VnNRpHWILfoL63K9Va2O'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-14 23:56:26,643 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:56:40,568 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['G261TR62gLzJDAWHM1hOLRIvuVp7LtWjjuzMkhV6uZbMH8MQrGbyjbpsKDDPKEdt'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['        logger.info(request.POST)\r\n']}>
+2022-11-14 23:56:40,569 - root - INFO - <tr>
+    <th><label for="id_content">Content:</label></th>
+    <td>
+      
+      <textarea name="content" cols="40" rows="10" maxlength="1000" required id="id_content">
+        logger.info(request.POST)
+</textarea>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Weather">Weather:</label></th>
+    <td>
+      
+      <select name="Weather" required id="id_Weather">
+  <option value="">---------</option>
+
+  <option value="Cloudy">Cloudy</option>
+
+  <option value="Rainy">Rainy</option>
+
+  <option value="Snowy">Snowy</option>
+
+  <option value="Sunny" selected>Sunny</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Drawing">Drawing:</label></th>
+    <td>
+      <ul class="errorlist"><li>올바르게 선택해 주세요. 디지털 아트 이/가 선택가능항목에 없습니다.</li></ul>
+      <select name="Drawing" required id="id_Drawing">
+  <option value="">---------</option>
+
+  <option value="Sketched">Sketched</option>
+
+  <option value="Impressionism">Impressionism</option>
+
+  <option value="Digital Art">Digital Art</option>
+
+  <option value="Oil and Canvas">Oil and Canvas</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Emotion">Emotion:</label></th>
+    <td>
+      
+      <select name="Emotion" required id="id_Emotion">
+  <option value="">---------</option>
+
+  <option value="Neutral">Neutral</option>
+
+  <option value="Cheerful" selected>Cheerful</option>
+
+  <option value="Angry">Angry</option>
+
+  <option value="Happy">Happy</option>
+
+  <option value="Depressed">Depressed</option>
+
+</select>
+      
+      
+        
+      
+    </td>
+  </tr>
+2022-11-14 23:56:42,409 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['BruHYaejl0f0G74yfME409JNBYEWymaHeTXspA3nzeR3KFUHUryOytqKRGSExxrR'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['        logger.info(request.POST)\r\n']}>
+2022-11-14 23:56:42,410 - root - INFO - <tr>
+    <th><label for="id_content">Content:</label></th>
+    <td>
+      
+      <textarea name="content" cols="40" rows="10" maxlength="1000" required id="id_content">
+        logger.info(request.POST)
+</textarea>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Weather">Weather:</label></th>
+    <td>
+      
+      <select name="Weather" required id="id_Weather">
+  <option value="">---------</option>
+
+  <option value="Cloudy">Cloudy</option>
+
+  <option value="Rainy">Rainy</option>
+
+  <option value="Snowy">Snowy</option>
+
+  <option value="Sunny" selected>Sunny</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Drawing">Drawing:</label></th>
+    <td>
+      <ul class="errorlist"><li>올바르게 선택해 주세요. 디지털 아트 이/가 선택가능항목에 없습니다.</li></ul>
+      <select name="Drawing" required id="id_Drawing">
+  <option value="">---------</option>
+
+  <option value="Sketched">Sketched</option>
+
+  <option value="Impressionism">Impressionism</option>
+
+  <option value="Digital Art">Digital Art</option>
+
+  <option value="Oil and Canvas">Oil and Canvas</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Emotion">Emotion:</label></th>
+    <td>
+      
+      <select name="Emotion" required id="id_Emotion">
+  <option value="">---------</option>
+
+  <option value="Neutral">Neutral</option>
+
+  <option value="Cheerful" selected>Cheerful</option>
+
+  <option value="Angry">Angry</option>
+
+  <option value="Happy">Happy</option>
+
+  <option value="Depressed">Depressed</option>
+
+</select>
+      
+      
+        
+      
+    </td>
+  </tr>
+2022-11-14 23:57:29,957 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:58:00,266 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['6ERo9PQAefBVokuymQow3t2o1kKwnuXtJ6k9AfFEstdYsSkH1vigBNJlh2YemFeD'], 'Weather': ['Cloudy'], 'Emotion': ['Neutral'], 'Drawing': ['디지털 아트'], 'content': ['        logger.info(request.POST)\r\n']}>
+2022-11-14 23:58:00,267 - root - INFO - <tr>
+    <th><label for="id_content">Content:</label></th>
+    <td>
+      
+      <textarea name="content" cols="40" rows="10" maxlength="1000" required id="id_content">
+        logger.info(request.POST)
+</textarea>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Weather">Weather:</label></th>
+    <td>
+      
+      <select name="Weather" required id="id_Weather">
+  <option value="">---------</option>
+
+  <option value="Sunny">Sunny</option>
+
+  <option value="Cloudy" selected>Cloudy</option>
+
+  <option value="Rainy">Rainy</option>
+
+  <option value="Snowy">Snowy</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Drawing">Drawing:</label></th>
+    <td>
+      <ul class="errorlist"><li>올바르게 선택해 주세요. 디지털 아트 이/가 선택가능항목에 없습니다.</li></ul>
+      <select name="Drawing" required id="id_Drawing">
+  <option value="">---------</option>
+
+  <option value="Sketched">Sketched</option>
+
+  <option value="Oil and Canvas">Oil and Canvas</option>
+
+  <option value="Impressionism">Impressionism</option>
+
+  <option value="Digital Art">Digital Art</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Emotion">Emotion:</label></th>
+    <td>
+      
+      <select name="Emotion" required id="id_Emotion">
+  <option value="">---------</option>
+
+  <option value="Angry">Angry</option>
+
+  <option value="Cheerful">Cheerful</option>
+
+  <option value="Happy">Happy</option>
+
+  <option value="Depressed">Depressed</option>
+
+  <option value="Neutral" selected>Neutral</option>
+
+</select>
+      
+      
+        
+      
+    </td>
+  </tr>
+2022-11-14 23:59:03,358 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:59:12,697 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:59:19,916 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['E9Wy6b0R62NhW0qozbeDfQXi6YkoypughBpjxBPVkgpk0ygxeQ8nNaEfmGy6xALq'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['        logger.info(request.POST)\r\n']}>
+2022-11-14 23:59:19,917 - root - INFO - <tr>
+    <th><label for="id_content">Content:</label></th>
+    <td>
+      
+      <textarea name="content" cols="40" rows="10" maxlength="1000" required id="id_content">
+        logger.info(request.POST)
+</textarea>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Weather">Weather:</label></th>
+    <td>
+      
+      <select name="Weather" required id="id_Weather">
+  <option value="">---------</option>
+
+  <option value="Snowy">Snowy</option>
+
+  <option value="Sunny" selected>Sunny</option>
+
+  <option value="Cloudy">Cloudy</option>
+
+  <option value="Rainy">Rainy</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Drawing">Drawing:</label></th>
+    <td>
+      <ul class="errorlist"><li>올바르게 선택해 주세요. 디지털 아트 이/가 선택가능항목에 없습니다.</li></ul>
+      <select name="Drawing" required id="id_Drawing">
+  <option value="">---------</option>
+
+  <option value="Impressionism">Impressionism</option>
+
+  <option value="Digital Art">Digital Art</option>
+
+  <option value="Oil and Canvas">Oil and Canvas</option>
+
+  <option value="Sketched">Sketched</option>
+
+</select>
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_Emotion">Emotion:</label></th>
+    <td>
+      
+      <select name="Emotion" required id="id_Emotion">
+  <option value="">---------</option>
+
+  <option value="Neutral">Neutral</option>
+
+  <option value="Happy">Happy</option>
+
+  <option value="Angry">Angry</option>
+
+  <option value="Cheerful" selected>Cheerful</option>
+
+  <option value="Depressed">Depressed</option>
+
+</select>
+      
+      
+        
+      
+    </td>
+  </tr>
+2022-11-14 23:59:47,982 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-14 23:59:53,244 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['dUhVLwCKYZqvx3JyGTJqHsr7GhIII9kwQmKGcWrOcd2yBBzHlyDafM84WZWqHkBG'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['        logger.info(request.POST)\r\n']}>
+2022-11-14 23:59:53,245 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:01:37,680 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:01:44,941 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['ojhCFVS0A5eALpzioo7jWx1Q8rz9PE4I1LKn6lH4OjQDPXpr3313uRINo9NROPlS'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:01:44,942 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:04:34,762 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:05:10,198 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:05:32,985 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:05:41,297 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:05:56,700 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Z8zXHxEh2rKo1oE3HyvBAOETyHpcm5GeCA2I8XtlgFmr5Wucmdpl88lQOpDUlgXo'], 'Weather': ['Cloudy'], 'Emotion': ['Neutral'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:05:56,702 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:06:01,093 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['3g6gP9qffMWx5SK4iKFozciBqjaQOZWjGIz1gzfjt0yA9qAdXpz87wZyG1oyNadt'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:06:01,094 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:15,141 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['GcV4PchVrtHO06pV7CjR0Nx6SNkLJ4aTjEoPgC6ZFHjR4Ef4MhdBy7e38vytIfr3'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:15,141 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:24,332 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Hj0F3HpbmuXalGrWyHxPwOWtaw1QXSu0kLtqu7efAIzdpeh5dmrz48DqqefyW3La'], 'Weather': ['Sunny'], 'Emotion': ['Happy'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:24,334 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:26,410 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Gmeztup1ACmaG8OyJxa9hZ9UtLI12k9djOHkUUe5OQYdKGEHoc4TPjQRJtWJ1vqn'], 'Weather': ['Sunny'], 'Emotion': ['Neutral'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:26,411 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:28,917 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['mEvLP5s7BdiU9JrdK6U71AwYZsfQFMrJZ6YwgvhbPrUXdhhmpLORzUdVfatyEXIT'], 'Weather': ['Sunny'], 'Emotion': ['Depressed'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:28,918 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:30,501 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['hEvwnUXXpRM6yCyRuXrocNuqBp2azd7gU6YhOkM1D5o9Cao09Cl8K7bnR7gSyooq'], 'Weather': ['Sunny'], 'Emotion': ['Angry'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:30,502 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:32,636 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['alP0FoFp1FrAScSwdQEIp1GFAZbFXfR2NNiL6OutfT3DWKIFSvysXlnCQHpnWq8c'], 'Weather': ['Cloudy'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:32,636 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:34,287 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['hTT7oEmfdmKuFvDWgFAG1FPoBP3T71EVUlmSP4bjrAmxJ3t5VkuqzZwlRxhB6cV5'], 'Weather': ['Rainy'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:34,288 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:35,785 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['pfbb8sQlfUwuek0TlquZQT3YCX1G0q182HEWzSFpt88xiSQ205oJodKVSFfoZBii'], 'Weather': ['Snowy'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['diary/memory_photo_confirm.html']}>
+2022-11-15 00:07:35,785 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:07:36,118 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['xb3sOo1Ph6s4fWh6AdK1A9RzRmR4teWsaDwdfOQTvk47ju7ffSEL8tyw745MspdC'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['']}>
+2022-11-15 00:07:36,119 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:08:36,818 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:09:06,368 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:09:14,990 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['xb3sOo1Ph6s4fWh6AdK1A9RzRmR4teWsaDwdfOQTvk47ju7ffSEL8tyw745MspdC'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['디지털 아트'], 'content': ['']}>
+2022-11-15 00:09:14,991 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:09:27,338 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['sHQ4n3QhNV5yIN6sQupSuXpvzYQIyur359jPOtFl19HBMlWBv9jC2h6sPG4qxFId'], 'Weather': ['Sunny'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:09:27,340 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:09:32,571 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:09:55,472 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:11:18,371 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:11:49,214 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['qOGekvmhKkiSMY531Sex9PeGY6iS3ttS3g9ZLVblYyUVQwVcGx8hH9VDeOwA2EK2'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:11:49,217 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:28:36,623 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:29:12,646 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['bkmbDfNZgcCiezCTEC7KAV269wdrX7VWOMPW4FC3uqeli7s2jh1u8fJ3per9Wic6'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['요즘스타일'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:29:12,648 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:29:52,186 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['h0erPoK6YLFdKwpCMScVsX4JXROA4fZyUsHcgOzacZhgO4fLrx6F0hLGdz2i3qgI'], 'Weather': ['Sunny'], 'Emotion': ['Neutral'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:29:52,187 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:29:57,323 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:30:11,577 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:30:15,399 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 191, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 547, in query
+    self._execute_command(COMMAND.COM_QUERY, sql)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 793, in _execute_command
+    raise err.InterfaceError(0, "")
+pymysql.err.InterfaceError: (0, '')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    conn.close()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 404, in close
+    raise err.Error("Already closed")
+pymysql.err.Error: Already closed
+2022-11-15 00:31:44,368 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:32:12,649 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['h0erPoK6YLFdKwpCMScVsX4JXROA4fZyUsHcgOzacZhgO4fLrx6F0hLGdz2i3qgI'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:32:12,650 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:32:18,614 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:32:28,213 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:32:31,981 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 191, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',['신문 내기', '우리 사랑 학교', '시골 어머니', '공부 수요일' at line 1")
+2022-11-15 00:33:56,189 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:34:11,303 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['h0erPoK6YLFdKwpCMScVsX4JXROA4fZyUsHcgOzacZhgO4fLrx6F0hLGdz2i3qgI'], 'Weather': ['Sunny'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:34:11,305 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:34:17,224 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:34:24,178 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:34:25,688 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 177, in image_extraction
+    kor_keywords = ', '.join([word.text for word in fin_keyword])
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 177, in <listcomp>
+    kor_keywords = ', '.join([word.text for word in fin_keyword])
+AttributeError: 'str' object has no attribute 'text'
+2022-11-15 00:34:43,929 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:34:53,424 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['h0erPoK6YLFdKwpCMScVsX4JXROA4fZyUsHcgOzacZhgO4fLrx6F0hLGdz2i3qgI'], 'Weather': ['Sunny'], 'Emotion': ['Neutral'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:34:53,425 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:34:58,473 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:35:05,456 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:35:08,745 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 194, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',신문 내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영,' at line 1")
+2022-11-15 00:36:51,292 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:36:58,932 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['h0erPoK6YLFdKwpCMScVsX4JXROA4fZyUsHcgOzacZhgO4fLrx6F0hLGdz2i3qgI'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:36:58,933 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:37:04,666 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:37:11,783 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:37:14,668 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 194, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ,신문 내기, ab,bc,cd)' at line 1")
+2022-11-15 00:39:07,366 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:39:17,068 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['cGK1F6Epc4NDjV8l6V8p72NrzN7mpJZfP8dM6wttqipGntYuLA29FmuoPvl4oUgp'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['요즘스타일'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:39:17,069 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:39:25,466 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Oc51MGIVFh99sQq4BPHQXZAmnxHbIWIdrEyMd6xZTvLcwogdguBAvjhjDfVTH7Zn'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:39:25,467 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:39:31,451 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:39:39,352 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:39:42,664 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 194, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 'ab','bc','cd', 'gg')' at line 1")
+2022-11-15 00:41:23,196 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:41:36,223 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Oc51MGIVFh99sQq4BPHQXZAmnxHbIWIdrEyMd6xZTvLcwogdguBAvjhjDfVTH7Zn'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:41:36,224 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:41:42,148 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:41:50,419 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:41:53,664 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영, aaa,bbb' at line 1")
+2022-11-15 00:42:31,169 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:42:41,294 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Oc51MGIVFh99sQq4BPHQXZAmnxHbIWIdrEyMd6xZTvLcwogdguBAvjhjDfVTH7Zn'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:42:41,295 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:42:46,884 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:42:56,154 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:42:59,505 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영, aaa, bb' at line 1")
+2022-11-15 00:43:06,129 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:43:19,531 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Oc51MGIVFh99sQq4BPHQXZAmnxHbIWIdrEyMd6xZTvLcwogdguBAvjhjDfVTH7Zn'], 'Weather': ['Snowy'], 'Emotion': ['Neutral'], 'Drawing': ['Oil and Canvas'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:43:19,532 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:43:25,043 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:43:31,820 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:43:35,232 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영, aaa, bb' at line 1")
+2022-11-15 00:43:58,860 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 00:44:06,548 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['Oc51MGIVFh99sQq4BPHQXZAmnxHbIWIdrEyMd6xZTvLcwogdguBAvjhjDfVTH7Zn'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['Oil and Canvas'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 00:44:06,549 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 00:44:12,469 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 00:44:21,228 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 00:44:24,601 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    curs.execute(sql) # 실행할 쿼리분 넣기
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영)' at line 1")
+2022-11-15 00:51:49,323 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 10:24:07,031 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['iFwa04bBYwqvw1IzuxU6pwtSKuxb4KWVV7ZVru0FcK2yAzyI9cOQXQaP0cLT3Vd5'], 'Weather': ['Rainy'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['ㅁㄴㅇㅁㄴㅇㄴㅁㅇ']}>
+2022-11-15 10:24:07,034 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:24:09,691 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 132, in image_extraction
+    count = CountVectorizer(ngram_range=n_gram_range).fit([tokenized_nouns])
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1291, in fit
+    self.fit_transform(raw_documents)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1338, in fit_transform
+    vocabulary, X = self._count_vocab(raw_documents, self.fixed_vocabulary_)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1228, in _count_vocab
+    raise ValueError(
+ValueError: empty vocabulary; perhaps the documents only contain stop words
+2022-11-15 10:26:03,588 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 10:26:19,621 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['XgxyMx1PvGg0IGLqEcDTHMhREdtWXAmFAI0jdXQTJUS3MeBzjRxDf6YOUVHEWLDP'], 'Weather': ['Rainy'], 'Emotion': ['Happy'], 'Drawing': ['Sketched'], 'content': ['ㅇㅈㅇㅈㅇ']}>
+2022-11-15 10:26:19,621 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:26:19,706 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 132, in image_extraction
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1291, in fit
+    self.fit_transform(raw_documents)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1338, in fit_transform
+    vocabulary, X = self._count_vocab(raw_documents, self.fixed_vocabulary_)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1228, in _count_vocab
+    raise ValueError(
+ValueError: empty vocabulary; perhaps the documents only contain stop words
+2022-11-15 10:27:52,713 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['3jGugZ6R9q6p56U9zXxP2bj3oKybpwQSGL9fHpVVnEIs9EKieCrzAv00EsMToH72'], 'Weather': ['Rainy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['ㅇㅈㅇㅈㅇㅈㅇㅈ']}>
+2022-11-15 10:27:52,714 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:27:52,800 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 132, in image_extraction
+    count = CountVectorizer(ngram_range=n_gram_range).fit([tokenized_nouns])
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1291, in fit
+    self.fit_transform(raw_documents)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1338, in fit_transform
+    vocabulary, X = self._count_vocab(raw_documents, self.fixed_vocabulary_)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\sklearn\feature_extraction\text.py", line 1228, in _count_vocab
+    raise ValueError(
+ValueError: empty vocabulary; perhaps the documents only contain stop words
+2022-11-15 10:34:27,158 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['B053lGOGoKkFeJdTsbbzMSBu5rEgxif4esyOM6DKCYWIih327Q5jkcirl9SYwtwe'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Oil and Canvas'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 10:34:27,162 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:34:31,164 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 10:34:46,332 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 10:34:53,961 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    try:
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영)' at line 1")
+2022-11-15 10:35:17,822 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['B053lGOGoKkFeJdTsbbzMSBu5rEgxif4esyOM6DKCYWIih327Q5jkcirl9SYwtwe'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Oil and Canvas'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 10:35:17,824 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:35:18,421 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 10:35:26,461 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 10:35:29,551 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    # try:
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영)' at line 1")
+2022-11-15 10:35:39,749 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['fXOmsYm4gG1KTd2RuArtn8fIChEtRPPWSph7Tob8uUDNXLS09fldVsWFSZSbQ066'], 'Weather': ['Rainy'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 10:35:39,751 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:35:40,195 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 10:35:47,718 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 10:35:50,807 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    # try:
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영)' at line 1")
+2022-11-15 10:37:34,419 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['HW3c9eR15MEqrQtwsXVUKrNG72AQiGBhkowXAEG5j0gtvojF7CPEiLuDnKOyhRSr'], 'Weather': ['Cloudy'], 'Emotion': ['Neutral'], 'Drawing': ['Oil and Canvas'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 10:37:34,421 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:37:34,856 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 10:37:42,499 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 10:37:45,664 - django.request - ERROR - Internal Server Error: /diary/loading/
+Traceback (most recent call last):
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py", line 198, in image_extraction
+    #    pass
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "C:\Users\zldzh\workspace\euc_project3\Project-3\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '내기, 우리 사랑 학교, 시골 어머니, 공부 수요일 유영)' at line 1")
+2022-11-15 10:40:07,698 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['X3c7w3CRTTAJ55GWEs7O0rXDft8mXPdlAvFSXtrV77cM9Dw5j71yyLEAvbm4W0uv'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 10:40:07,701 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 10:40:12,829 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 10:40:22,002 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 12:20:54,899 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['rRCQxYZyTgidVfohxdmdi4EkAFdRTdg94j5BYoOC7uUgZNeqcSgXQolhQnrzSoxj'], 'Weather': ['Rainy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 12:20:54,902 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 12:21:00,985 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 12:21:18,284 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 12:21:54,457 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['rRCQxYZyTgidVfohxdmdi4EkAFdRTdg94j5BYoOC7uUgZNeqcSgXQolhQnrzSoxj'], 'Weather': ['Rainy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 12:21:54,460 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 12:21:55,097 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 12:22:00,837 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 12:23:01,329 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 12:23:20,914 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['rM1HSFfqlLon0AygmThGbQBaOVsVRClB4eusj54uzZ0q48op1ybqJai74DGDQNCL'], 'Weather': ['Rainy'], 'Emotion': ['Depressed'], 'Drawing': ['Sketched'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 12:23:20,915 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 12:23:27,955 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 12:23:36,107 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 12:24:49,494 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 12:26:59,842 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 12:36:21,969 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 12:36:49,874 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['NFmVzPmigmolNzUJQ7fGPSkdCzcdxNGbq7PG0fbmuA0oR7KSvM9qnc1aShqVwYXl'], 'Weather': ['Rainy'], 'Emotion': ['Happy'], 'Drawing': ['Oil and Canvas'], 'content': ['우리 흙사랑 학교도 금요일 방학을 했다.\r\n보은읍에 어머니들은 방학하는 것 아시워 했다.\r\n몰랏던 글을 한자씩 배워서 일기도 쓰고 산수도 배우는게 재미가 있다고 했다.\r\n시골에 어머니들은 반도 안 나온다. 고추따고 참깨 비는야고 밥바서 안 나온다.\r\n과목이 월요일에는 송진선 선생님이 어머니들한테 일상생활에 필요한 읾들과 일기를 쓰거나 글을 써서 신문에 내기도 한다.\r\n화요일에는 김은숙 선생님이 하고 싶은 말을 글로 표현 할 수 있도록 가르쳐 주고 시를 공부한다.\r\n수요일에는 류영우 선생님이 역사, 지리 등 재미인는 글을 가르쳐 준다.\r\n목요일은 이중욱 선생님이 귀에 쏙쏙 들어오게 수학을 한다. 잘 못하는 어머니들은 머리가 아프다고 한다.\r\n금요일은 사무장님이 한자, 영어를 가르치는데 7월에는 한자검정시험에 6명이 가서 합격을 했다. 8월에는 3명이 시험을 보러갔다.\r\n사무장님은 야간 공부도 가르쳐 주는데 중학교 입학 자격 검정고시 시험을 볼 수가 있다.\r\n이 행복을 글 모르는 어머니들하고 지역에서 필요한 공부가 있으신 분들과 같이 나누고 싶습니다.\r\n우리 나이에 이보다 더 좋은건 없습니다.\r\n정말 즐거운 흙사랑 학교입니다. ']}>
+2022-11-15 12:36:49,876 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 12:36:55,466 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 12:37:07,248 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 12:37:10,582 - openai - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/images/generations
+2022-11-15 12:37:15,931 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=4730 request_id=4f0c40f3f91e0c559182b7694b7fd31a response_code=200
+2022-11-15 12:39:42,708 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['TTZybEIq0QIA9UskkEgWaDMc1EbZHJxYwlsjC4xue4kDdsitZjaGIXt9hmpHGUO8'], 'Weather': ['Cloudy'], 'Emotion': ['Depressed'], 'Drawing': ['Digital Art'], 'content': ['육이오가 나는 해 *간기에 학교를 드러가다. 그래서 *이락기는 잘 댕기다. 그런대 이락기를 잘 끄나는데 이학기대 육이오가 이러나다. 그리서 *피라늘 갔다왔다.그 사이 엄마가 남동생을 나다. 그 *부니기에서도 우리집은 축제부니기여다.\r\n피란늘 가다와서 우리 칭구들은 학교에늘 가는대 나는 아버지가 학교에를 못가게 해서 모갔다.\r\n외냐하면 학교에 살람을 모이노코 폭탄을 터드릴라고 그런다고 했다.\r\n그때가 한참 유기오 전쟁이 끝나지 안아서 그런다고 했다. 그리서 나는 그대 학교에을 모가다. 그때 못간기 참 후해스렸다.\r\n그때 내가 학교에늘 가스면 요사이에 흙사랑 학교에는 아나와도 대는대 아버지 말을 거역을 못했다.\r\n그때 나는 집에서 동생들 볼 때 학교에늘 가는 칭구들이 정말 부러웠다.\r\n가치 가서 공부를 하고 싶어다. 어릴대부터 나는 공부를 하는 대신 빨래 빨고 밥하고 그러면서 컷다.\r\n지금 가트면 도시로 나가 돈벌면서 밤에라도 학교에 갓을 거인대 그때는 아버지 말을 거역하지 못해다.\r\n국민학교라도 나와스면 얼마나 좋을까 학교에 모간게 후해가 된다.\r\n그리도 지금 흙사랑 한글학교에 나와서 한글을 배우니 즐거다.']}>
+2022-11-15 12:39:42,709 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 12:39:43,599 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 12:39:49,091 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 12:39:57,455 - openai - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/images/generations
+2022-11-15 12:40:03,153 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=4997 request_id=87f4920a93a20ccd8daf2de951bfdad5 response_code=200
+2022-11-15 12:40:49,396 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 12:44:54,584 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-15 12:45:08,531 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\models.py changed, reloading.
+2022-11-15 12:55:35,652 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['g2rm534xJAlt77msskKbpVeAYlC6j02WTuU7wtTBXOXwbFcB7ZEVXfVxe3QOibj6'], 'Weather': ['Sunny'], 'Emotion': ['Happy'], 'Drawing': ['Digital Art'], 'content': ['4월 17일 화요일 날씨 말금\r\n봄 날씨가 화사하고 따땃하니 이곳저곳에서 꽃소식을 전해오고 꽃처럼 아름다운 원앙새들이 시냇물 위에 동동 떠다니며 한가로이 뱃놀이를 하고 있는 모습이 정말 아름다워요.\r\n어이 그리도 예쁘게 생겼는지 참 곱고 아름답고 화려한지 잡을 수 있다면 좋으련만, 들녘에는 민들레꽃과 꽃다지가 들판을 노랗게 물들이고 제비꽃은 남색으로 수를 놓아요.\r\n지름나물은 연한 미색깔로 수를 놓으니 사람들 마음을 다 훔쳐가 버린답니다.\r\n\r\n4월 21일 토요일 날씨 비\r\n아침에 일어나니 비가 오고 있어요. 비바람이 불어오니 아름답게 활짝 피어있는 꽃잎이 비바람에 떨어져 꽃비가 되어서 이곳, 저곳 날아다니니 그 아름다움은 온대간대 없고 비바람만 야속할 뿐.\r\n봄에 꽃하면 목련이요, 벚꽃이 으뜸이요 들엔 개나리가 황금물결을 이루고 산에는 연분홍 진달래와 오색빛깔의 꽃을 피워 아름다움을 더하고 앙상했던 나뭇가지는 연두색으로 옷을 갈아입고 나만의 몸단장하느라  여념이 없고 만물이 소생하는 계절 너도나도 몸단장 하느라 얼마나 바쁜지 모르고 꽃나무는 꽃피우고 사람들은 그런 덕분에 꽃 속에 묻혀 꽃향기에 살며시 빠져 버려요.']}>
+2022-11-15 12:55:35,653 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 12:55:40,637 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 12:55:52,555 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 12:56:00,662 - openai - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/images/generations
+2022-11-15 12:56:05,926 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=4719 request_id=597c7134c1dcdf88483ce60970a84a34 response_code=200
+2022-11-15 13:00:08,627 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 13:00:20,874 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 13:00:31,863 - django.utils.autoreload - INFO - C:\Users\zldzh\workspace\euc_project3\Project-3\diary\views.py changed, reloading.
+2022-11-15 13:58:56,905 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['QOnCt4ympxaoDJCg1ukwNc2nP6TMALultgQnUunqDLMrHhspG9eglwJk5O7uzWLv'], 'Weather': ['Rainy'], 'Emotion': ['Happy'], 'Drawing': ['Oil and Canvas'], 'content': ['질신리 가로수 벚꽃이 정말 예쁘게 피었습니다.\r\n몇 년 전에 박종기 군수님이 질신리에 가로수 벚나무를 심어놓은 벚꽃이 화려하게 피었습니다.\r\n박 군수님 자리가 벚꽃으로 남아있으니 정말 보기가 좇습니다.\r\n그런데 그 벚꽃을 보는 사람이 없어서 참 아쉬웠습니다. 동네마다 99, 88 노인들만 살아서 예쁜 꽃들이 한 잎 두 잎 떨어지는 게 아쉽습니다.\r\n나 혼자 가로수 벚꽃 향기 속에 걸으면서 이 산 저 산을 바라보니 진달래꽃이 화려하게 피었습니다.\r\n나는 옛날 추억을 더듬으며 걸으면서 벚꽃을 보니 옛날에 신탄진 벚꽃축제에 갔다가 사람들 틈에 쳐 죽을 뻔 했던 게 생각이 났습니다.\r\n옛날 벚꽃은 청춘에 벚꽃이요, 꽃이 좋은 게 아니고 내 청춘이 꽃인 게지요.\r\n늙어서 보는 꽃은 예쁘다는 생각뿐이지 젊어서 꽃을 보면 인정사정도 없이 꺾어다 꽂아놓고 뒷동산에 올라가서 진달래를 한 아름씩 꺾어 오던 생각이 납니다.\r\n젊어서 인(人)꽃 벚꽃이 진짜 예쁘지, 늙어서 보는 꽃은 눈으로 보는 꽃이고 젊어서 보는 꽃은 꼭 행기 속으로 들어갈 정도로 표현이 안될 정도로 좋은데 지금은 예쁘다 하는 마음뿐이지 그 꽃을 꺾고 싶은 마음도 없습니다.\r\n이제는 마음도 육신도 갈 때가 되어 강으로 갈지, 저 산으로 갈지 얼마 남지 않은 인생을 똑바르게 살다가 저 세상으로 가야하는데 걱정이 됩니다.\r\n내가 다시 태어나면 시집도 안가고 정치가가 되어서 똑바르게 하면서 서민들을 도와주고 싶습니다.']}>
+2022-11-15 13:58:56,910 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
+2022-11-15 13:59:02,833 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/xlm-r-100langs-bert-base-nli-stsb-mean-tokens
+2022-11-15 13:59:14,353 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+2022-11-15 13:59:22,069 - openai - INFO - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/images/generations
+2022-11-15 13:59:27,541 - openai - INFO - message='OpenAI API response' path=https://api.openai.com/v1/images/generations processing_ms=4674 request_id=1f6428a87c6a14e5395530c4bb5f44db response_code=200
+2022-11-15 13:59:54,061 - root - INFO - <QueryDict: {'csrfmiddlewaretoken': ['5zVKdBh15Uyr7Xdb69ccI592HmJfwHHzI1ovE165j8aubv3kLO6WgpQZX4XXvSYJ'], 'Weather': ['Sunny'], 'Emotion': ['Cheerful'], 'Drawing': ['요즘스타일'], 'content': ['']}>
+2022-11-15 13:59:54,065 - root - INFO - <bound method BaseForm.is_valid of <MemoryForm bound=True, valid=Unknown, fields=(content;Weather;Drawing;Emotion)>>
